@@ -7,7 +7,7 @@
 
 U2IS - ENSTA-Paris
 
-**[[Paper](https://arxiv.org/abs/2412.14103)]** $~$ **[[Video](https://www.youtube.com/watch?v=IsaRFOiHWDQ)]** 
+**[[Paper](https://ieeexplore.ieee.org/document/11247168)]** **[[arXiv](https://arxiv.org/abs/2412.14103)]** **[[Video](https://www.youtube.com/watch?v=IsaRFOiHWDQ)]** 
 
 ![teaser](assets/rescaling.png)
 
